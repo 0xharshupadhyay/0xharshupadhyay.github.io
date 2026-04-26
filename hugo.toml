@@ -1,0 +1,20 @@
+baseURL = "https://harshupadhyay.com"
+languageCode = "en-us"
+title = "Harsh Upadhyay"
+theme = "PaperMod"
+
+[params]
+  description = "DFIR | Detection Engineering | Malware Analysis"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
