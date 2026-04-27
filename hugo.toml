@@ -8,13 +8,51 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = true
+  ShowPostDate = false
+  enableGitInfo = false
+  
+[params.homeInfoParams]
+  Title = "Harsh Upadhyay"
+  Content = "Detection Engineer @ NSE | Building TraceonIT | DFIR, Malware Analysis, Incident Response"
 
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/0xharshupadhyay"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/0xharshupadhyay"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/0xharshupadhyay"
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "https://harshupadhyay.com/index.xml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 [menu]
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 1
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 1
+    weight = 2
+  [[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 5
