@@ -4,7 +4,7 @@ title = "Harsh Upadhyay"
 theme = "PaperMod"
 
 [params]
-  description = "DFIR | Detection Engineering | Malware Analysis"
+  description = "DFIR | Detection Engineering | Malware Analysis | Malware Development"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
@@ -15,7 +15,7 @@ theme = "PaperMod"
   
 [params.homeInfoParams]
   Title = "Harsh Upadhyay"
-  Content = "Detection Engineer @ NSE | Building TraceonIT | DFIR, Malware Analysis, Incident Response"
+  Content = "Cybersecurity @ NSE | DFIR, Malware Developmet and Analysis, Incident Response"
 
 [[params.socialIcons]]
   name = "github"
