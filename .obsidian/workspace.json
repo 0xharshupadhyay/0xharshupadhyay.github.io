@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b5487d6d781b1f4",
+  "active": "bf9fab5b2f23c516",
   "lastOpenFiles": [
     "public/about/networking.gif",
     "content/posts/hello-world.md",
