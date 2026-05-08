@@ -6,4 +6,4 @@ tags: ["Detection Engineering", "Persistence", "KQL"]
 ---
 
 This is my first post. test
-![Test](./static/img.png)
+![Test](/static/img.png)
