@@ -183,11 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "bf9fab5b2f23c516",
+  "active": "ff0552292e55c4dd",
   "lastOpenFiles": [
-    "assets/Pasted image 20260508212431.png",
-    "public/about/networking.gif",
+    "assets/img.md",
     "content/posts/hello-world.md",
+    "assets/img.png",
+    "ass.md",
+    "public/about/networking.gif",
     "content/about/index.md"
   ]
 }

@@ -6,4 +6,4 @@ tags: ["Detection Engineering", "Persistence", "KQL"]
 ---
 
 This is my first post. test
-![[Pasted image 20260508212431.png]]
+![Test](assets/img.png)
